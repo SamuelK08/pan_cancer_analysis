@@ -1,0 +1,54 @@
+Community,Functions,Top 3 miRNAs
+1,"Regulation, Positive, Cell + Process, Glycolysis, Apoptotic + Stress, Cellular, Response","hsa-miR-93-5p,
+hsa-miR-17-5p,
+hsa-miR-106b-5p"
+2,"Regulation, Negative, Ii + Histone, Activity, Acetyltransferase + Kinase, Binding, Syndrome","hsa-miR-21-5p,
+hsa-miR-155-5p,
+hsa-miR-27a-3p"
+3,"Vesicle, Transport, Mediated + Golgi, Glycogen, Damage + Signaling, Activity, Mutants","hsa-miR-98-5p,
+hsa-let-7e-5p,
+hsa-let-7b-5p"
+4,"Regulation, Microtubule, Membrane + Genes, Nfe2l2, Mir + Mediated, Decay, Golgi","hsa-miR-16-5p,
+hsa-miR-15a-5p,
+hsa-miR-15b-5p"
+5,"Function, Cdh11, Expression + Regulation, Positive, Negative + Binding, Protein, Receptor","hsa-miR-30a-5p,
+hsa-miR-30c-5p,
+hsa-miR-30d-5p"
+6,"Process, Biosynthetic, Novo + Chaperone, Cycle, Activity + Signaling, Binding, Ubiquitin","hsa-miR-34a-5p,
+hsa-miR-320a,
+hsa-miR-10a-5p"
+7,"Stress, Heat, Response + Akt, Cytosol, Phosphatase + Apoptosis, Genes, Regulates","hsa-let-7c-5p,
+hsa-miR-125b-5p,
+hsa-let-7i-5p"
+8,"Decay, Nmd, Nonsense + Ribosomal, Rrna, Processing + Translation, Eukaryotic, Viral","hsa-miR-92a-3p,
+hsa-miR-92b-3p,
+hsa-miR-32-5p"
+9,"Regulation, Negative, Cell + Transport, Golgi, Gap + Cell, Cycle, G2","hsa-miR-484,
+hsa-miR-423-3p,
+hsa-miR-378a-3p"
+10,"Growth, Factor, Beta + Binding, Activin, Receptor + Transport, Membrane, Cell","hsa-miR-181a-5p,
+hsa-miR-181b-5p,
+hsa-miR-181c-5p"
+11,Not Significant,"hsa-miR-19b-3p,
+hsa-miR-130a-3p,
+hsa-miR-145-5p"
+12,Not Significant,"hsa-miR-24-3p,
+hsa-miR-342-3p,
+hsa-miR-23a-3p"
+13,Not Significant,"hsa-miR-29c-3p,
+hsa-miR-29b-3p,
+hsa-miR-29a-3p"
+14,Not Significant,"hsa-miR-26b-5p,
+hsa-miR-26a-5p,
+hsa-miR-339-5p"
+15,Not Significant,"hsa-miR-221-3p,
+hsa-miR-150-5p,
+hsa-miR-146b-3p"
+16,"Complex, Assembly, Iii + Transport, Electron, Respiratory + Metabolism, Atp, Mitochondrial","hsa-miR-23b-3p,
+hsa-miR-100-5p"
+17,Not Significant,"hsa-miR-455-3p,
+hsa-miR-192-5p,
+hsa-miR-30e-3p"
+18,Not Significant,"hsa-miR-148b-3p,
+hsa-miR-183-5p,
+hsa-miR-148a-3p"

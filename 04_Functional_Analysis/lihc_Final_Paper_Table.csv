@@ -1,0 +1,53 @@
+Community,Functions,Top 3 miRNAs
+1,"Regulation, Stress, Translation + Transport, Mediated, Trafficking + Protein, Unfolded, Response","hsa-miR-17-5p,
+hsa-miR-20a-5p,
+hsa-miR-93-5p"
+2,"Rrna, Rna, Processing + Protein, Folding, Cct + Gtpase, Cycle, Gtpases","hsa-miR-193b-3p,
+hsa-miR-30a-5p,
+hsa-miR-101-3p"
+3,"Translesion, Synthesis, Polh + Protein, Regulation, Signaling + Strand, Synthesis, Lagging","hsa-let-7b-5p,
+hsa-let-7c-5p,
+hsa-let-7a-5p"
+4,"Regulation, Apoptotic, Negative + Endoplasmic, Erad, Mannose + Signaling, Kinase, Cancer","hsa-miR-34a-5p,
+hsa-miR-21-5p,
+hsa-miR-222-3p"
+5,"Protein, Activity, Beta + Cycle, Tca, Acid + Transport, Electron, Respiratory","hsa-miR-26b-5p,
+hsa-miR-24-3p,
+hsa-miR-26a-5p"
+6,"Ribosomal, Trna, Subunit + Translation, Elongation, Eukaryotic + Membrane, Protein, Atp","hsa-miR-100-5p,
+hsa-miR-23b-3p,
+hsa-miR-27b-3p"
+7,"Degradation, Proteasome, Ubiquitin + Apc, Mediated, Degradation + Transport, Respiratory, Vesicle","hsa-miR-125b-5p,
+hsa-miR-10a-5p,
+hsa-miR-142-3p"
+8,"Genes, Mir, Nfe2l2 + Binding, Protein, Ubiquitin + Gtpases, Signaling, Ampk","hsa-miR-15a-5p,
+hsa-miR-107,
+hsa-miR-103a-3p"
+9,"Activity, Citrate, Synthase + Signal, Transduction, Signals + Protein, Regulation, Folding","hsa-miR-122-5p,
+hsa-miR-22-3p,
+hsa-miR-145-5p"
+10,"Initiation, Translation, Regulation + Binding, Mrna, Rna + Ribosomal, Ribosome, Protein","hsa-miR-16-5p,
+hsa-miR-424-5p,
+hsa-miR-15b-5p"
+11,"Regulation, Cell, Actin + Host, Infection, Virus","hsa-miR-192-5p,
+hsa-miR-455-3p,
+hsa-miR-32-5p"
+12,"Autophagy, Chaperone, Complement + Protein, Transport, Activity + Binding, Cell, Dependent","hsa-miR-27a-3p,
+hsa-miR-181a-5p,
+hsa-miR-183-5p"
+13,"Binding, Assembly, Catabolism + Fgfr1, Signaling, Activation + Protein, Mitochondrial, Processing","hsa-miR-155-5p,
+hsa-miR-150-5p,
+hsa-miR-23a-3p"
+14,"State, Somatic, Acetylation + Metabolism, Transport, Electron + Regulation, Activity, Expression","hsa-miR-186-5p,
+hsa-miR-30c-5p,
+hsa-miR-197-3p"
+15,Not Significant,"hsa-miR-484,
+hsa-miR-30b-5p,
+hsa-miR-30d-5p"
+16,"Regulation, Membrane, Activation + Binding, Rna, Androgen","hsa-miR-29c-3p,
+hsa-miR-29a-3p,
+hsa-miR-29b-3p"
+17,"Signaling, Activity, Adaptive + Metabolism, Biosynthesis, Carbon","hsa-miR-375,
+hsa-miR-744-5p,
+hsa-miR-15b-3p"
+18,"Nad, Binding, Activity + Process, Metabolic, Carbohydrate + Metabolism, Degradation, Biosynthesis",hsa-miR-99b-5p

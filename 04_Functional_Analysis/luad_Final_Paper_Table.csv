@@ -1,0 +1,54 @@
+Community,Functions,Top 3 miRNAs
+1,"Chromatin, Biosynthesis, Dna + Trna, Rrna, Aminoacylation + Binding, Mrna, Splicing","hsa-let-7b-5p,
+hsa-let-7a-5p,
+hsa-let-7c-5p"
+2,"Interferon, Type, Cov + Signaling, Tgf, Beta + Signaling, Binding, Kinase","hsa-miR-93-5p,
+hsa-miR-17-5p,
+hsa-miR-106b-5p"
+3,"Protein, Transport, Binding + Glycolysis, Cycle, Cell + Regulation, Positive, Signaling","hsa-miR-30a-5p,
+hsa-miR-30c-5p,
+hsa-miR-30b-5p"
+4,"Activity, Tp53, Regulation + Binding, Chromatin, Dna + Sars, Cell, Cov","hsa-miR-16-5p,
+hsa-miR-15a-5p,
+hsa-miR-103a-3p"
+5,"Protein, Kinase, Activity + Autophagy, Regulation, Aggrephagy + Atf6, Runx1, Alpha","hsa-miR-21-5p,
+hsa-miR-26b-5p,
+hsa-miR-192-5p"
+6,"Complex, Decay, Nmd + Signaling, Regulation, Positive + Translation, Ribosomal, Eukaryotic","hsa-miR-92a-3p,
+hsa-miR-92b-3p,
+hsa-miR-197-3p"
+7,"Signaling, Regulation, Cellular + Process, Biosynthetic, Biosynthesis + Translation, Eukaryotic, Initiation","hsa-miR-221-3p,
+hsa-miR-10a-5p,
+hsa-miR-222-3p"
+8,"Regulation, Function, Expression + Junction, Organization, Cell + Transcription, Activity, Binding","hsa-miR-155-5p,
+hsa-miR-142-3p,
+hsa-miR-455-3p"
+9,"Antigen, Presentation, Processing + Positive, Regulation, Cell + Mediated, Decay, Nmd","hsa-miR-193b-3p,
+hsa-miR-128-3p,
+hsa-miR-423-3p"
+10,"Erbb2, Srebf, Srebp + Transport, Endosome, Regulation + Activation, Mapk, Tak1","hsa-miR-181a-5p,
+hsa-miR-34a-5p,
+hsa-miR-181b-5p"
+11,"Mras, Function, Ion + Atp, Activity, Rna + Rna, Mrna, Viral","hsa-miR-100-5p,
+hsa-miR-101-3p,
+hsa-miR-99a-5p"
+12,"Signaling, Cellular, Stress + Alk, Signaling, Downstream + Binding, Assembly, Atpase","hsa-miR-375,
+hsa-miR-145-5p,
+hsa-miR-200c-3p"
+13,"Cycle, Metabolism, Acid + Translation, Eukaryotic, Telomere + Binding, Decay, Nmd","hsa-miR-320a,
+hsa-miR-125b-5p,
+hsa-miR-140-3p"
+14,"Chromatin, Modifying, Organization + Genes, Mir, Targeted","hsa-miR-24-3p,
+hsa-miR-27b-3p,
+hsa-miR-27a-3p"
+15,"Protein, Folding, Gtpase + Rna, Mrna, Transcription + Hiv, Infection, Disease","hsa-miR-26a-5p,
+hsa-miR-423-5p,
+hsa-miR-23b-3p"
+16,"Lysine, Peptidyl, Protein + Regulation, Negative, Expression + Platelet, Derived, Exposed","hsa-miR-29a-3p,
+hsa-miR-29c-3p,
+hsa-miR-29b-3p"
+17,"Mrna, Nuclear, Binds + Transport, Protein, Regulation + Signaling, Assembly, Axonal","hsa-miR-148b-3p,
+hsa-miR-148a-3p,
+hsa-miR-152-3p"
+18,Not Significant,"hsa-miR-150-5p,
+hsa-miR-532-3p"

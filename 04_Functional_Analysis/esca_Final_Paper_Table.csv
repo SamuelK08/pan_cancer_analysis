@@ -1,0 +1,49 @@
+Community,Functions,Top 3 miRNAs
+1,"Transport, Vesicle, Endocytosis + Regulation, Binding, Negative + Genes, Mir, Targeted","hsa-miR-17-5p,
+hsa-miR-106b-5p,
+hsa-miR-93-5p"
+2,"Protein, Transport, Membrane + Regulation, Transcriptional, Runx3 + Methyltransferase, Ubiquitin, Activity","hsa-miR-30a-5p,
+hsa-miR-30c-5p,
+hsa-miR-30b-5p"
+3,"Mrna, Processing, Mature + Signaling, Regulation, Protein + Transcription, Dna, Polymerase","hsa-miR-192-5p,
+hsa-miR-26b-5p,
+hsa-miR-375"
+4,"Binding, Cadherin, Collagen + Signaling, Pathway, Factor + Protein, Transport, Mrna","hsa-let-7b-5p,
+hsa-miR-98-5p,
+hsa-let-7c-5p"
+5,"Collagen, Acyl, Biosynthetic + Signaling, Interleukin, Regulation + Regulation, Transport, Protein","hsa-miR-10a-5p,
+hsa-miR-34a-5p,
+hsa-miR-29c-3p"
+6,"Cov, Genome, Replication + Protein, Regulation, Activity + Golgi, Transport, Er","hsa-miR-24-3p,
+hsa-miR-23b-3p,
+hsa-miR-183-5p"
+7,"Pathway, Protein, Signaling + Activity, Binding, Regulation + Protein, Regulation, Cellular","hsa-miR-16-5p,
+hsa-miR-15b-5p,
+hsa-miR-15a-5p"
+8,"Ubiquitin, Transferase, Protein + Insulin, Process, Receptor + Translation, Protein, Class","hsa-miR-484,
+hsa-miR-455-3p,
+hsa-miR-324-3p"
+9,Not Significant,"hsa-miR-92a-3p,
+hsa-miR-92b-3p,
+hsa-miR-32-5p"
+10,"Transport, Glucose, Golgi + Kinase, Signaling, Protein + Development, Differentiation, Adipocyte","hsa-miR-27a-3p,
+hsa-miR-27b-3p,
+hsa-miR-128-3p"
+11,"Regulation, Cellular, Stress + Body, Degranulation, Eda + Mediated, Decay, Nonsense","hsa-miR-193b-3p,
+hsa-miR-100-5p,
+hsa-miR-9-5p"
+12,"Electron, Transport, Mitochondrial + Atp, Driven, Force + Binding, Rna, Regulation","hsa-miR-125b-5p,
+hsa-miR-145-5p,
+hsa-miR-125a-5p"
+13,"Aldehyde, Endoplasmic, Infection + Binding, Oxidative, Stress + Actin, Cell, Genes","hsa-miR-155-5p,
+hsa-let-7a-3p,
+hsa-miR-381-3p"
+14,"Binding, Protein, Regulation + Host, Receptor, Virus","hsa-miR-101-3p,
+hsa-miR-181c-5p,
+hsa-miR-143-3p"
+15,Not Significant,"hsa-miR-222-3p,
+hsa-miR-221-3p,
+hsa-miR-21-3p"
+16,"Dna, Telomere, Inhibition + Cell, Regulation, Muscle + Activity, Methyltransferase, Dna","hsa-miR-200b-3p,
+hsa-miR-200c-3p,
+hsa-miR-141-3p"

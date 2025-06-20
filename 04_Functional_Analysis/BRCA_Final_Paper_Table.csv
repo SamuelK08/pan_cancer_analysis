@@ -1,0 +1,49 @@
+Community,Functions,Top 3 miRNAs
+1,"Biosynthesis, Fatty, Activity + Regulation, Activity, Mecp2 + Cell, Regulation, Cellular","hsa-miR-20a-5p,
+hsa-miR-93-5p,
+hsa-miR-106b-5p"
+2,"Microtubule, Transport, Nuclear + Chromatin, Histone, Activity + Protein, Regulation, Focal","hsa-miR-15a-5p,
+hsa-miR-15b-5p,
+hsa-miR-16-5p"
+3,"Mir, Targeted, Genes + Chromatin, Histone, Proteins + Binding, Trna, Rna","hsa-let-7b-5p,
+hsa-let-7a-5p,
+hsa-let-7c-5p"
+4,"Balance, Cell, Cerebellar + Cellular, Responses, Oxygen + Binding, Protein, Rna","hsa-miR-92a-3p,
+hsa-miR-455-3p,
+hsa-miR-222-3p"
+5,"Process, Biosynthetic, Glycolysis + Hedgehog, Runx2, Regulation + Cancer, Breast, Cell","hsa-miR-10a-5p,
+hsa-miR-125b-5p,
+hsa-miR-10b-5p"
+6,"Function, Regulation, Cdh11 + Genes, Mir, Targeted + Activator, Chromatin, Exocytosis","hsa-miR-27a-3p,
+hsa-miR-27b-3p,
+hsa-miR-155-5p"
+7,"Translation, Elongation, Eukaryotic + Ribosomal, Complex, Decay + Cellular, Cell, Development","hsa-miR-484,
+hsa-miR-193b-3p,
+hsa-miR-423-3p"
+8,"Transport, Regulation, Membrane + Binding, Poly, Rna + Infection, Phagocytosis, Disease","hsa-miR-101-3p,
+hsa-miR-130a-3p,
+hsa-miR-30a-3p"
+9,"Collagen, Formation, Exposed + Regulation, Angiogenesis, Negative + Signaling, Binding, Met","hsa-miR-29c-3p,
+hsa-miR-29a-3p,
+hsa-miR-29b-3p"
+10,"Activity, Disease, Expression + Protein, Complex, Ubiquitin + Binding, Mrna, Rna","hsa-miR-100-5p,
+hsa-miR-99a-5p,
+hsa-miR-23b-3p"
+11,"Hiv, Immune, Infection + Protein, Metabolism, Processing + Binding, Golgi, Autophagy","hsa-miR-221-3p,
+hsa-miR-26a-5p,
+hsa-miR-361-5p"
+12,"Vesicle, Golgi, Associated + Transport, Mediated, Clathrin + Genes, Mir, Targeted","hsa-miR-30a-5p,
+hsa-miR-30b-5p,
+hsa-miR-30d-5p"
+13,"Regulation, Transcription, Polymerase + Binding, Assembly, Complex + 23, Copy, Cov","hsa-miR-375,
+hsa-miR-342-3p,
+hsa-miR-542-3p"
+14,Not Significant,"hsa-miR-186-5p,
+hsa-miR-192-5p,
+hsa-miR-425-5p"
+15,"Cytosol, Pyrophosphates, Synthesis + Atf6, Signaling, Activates + Disease, Cancer, Fatty","hsa-miR-145-5p,
+hsa-miR-361-3p,
+hsa-miR-199a-5p"
+16,Not Significant,"hsa-miR-146b-5p,
+hsa-miR-28-5p,
+hsa-miR-146a-5p"

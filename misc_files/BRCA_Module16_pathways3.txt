@@ -1,0 +1,22 @@
+KW-0810~Translation regulation
+R-HSA-9604323~Negative regulation of NOTCH4 signaling
+R-HSA-69656~Cyclin A:Cdk2-associated events at S phase entry
+R-HSA-8948751~Regulation of PTEN stability and activity
+GO:0004722~protein serine/threonine phosphatase activity
+R-HSA-1640170~Cell Cycle
+R-HSA-68882~Mitotic Anaphase
+R-HSA-450408~AUF1 (hnRNP D0) binds and destabilizes mRNA
+R-HSA-69202~Cyclin E associated events during G1/S transition 
+hsa04152:AMPK signaling pathway
+R-HSA-195253~Degradation of beta-catenin by the destruction complex
+R-HSA-1169410~Antiviral mechanism by IFN-stimulated genes
+R-HSA-201681~TCF dependent signaling in response to WNT
+R-HSA-5628897~TP53 Regulates Metabolic Genes
+hsa04213:Longevity regulating pathway - multiple species
+R-HSA-69206~G1/S Transition
+R-HSA-4641258~Degradation of DVL
+R-HSA-2555396~Mitotic Metaphase and Anaphase
+hsa04932:Non-alcoholic fatty liver disease
+hsa05017:Spinocerebellar ataxia
+WP4396:Nonalcoholic fatty liver disease
+R-HSA-453279~Mitotic G1 phase and G1/S transition

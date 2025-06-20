@@ -1,0 +1,61 @@
+Community,Functions,Top 3 miRNAs
+1,"Stress, Cellular, Response + Protein, Binding, Acetyltransferase + Mrna, Decay, Nonsense","hsa-let-7b-5p,
+hsa-let-7c-5p,
+hsa-let-7a-5p"
+2,"Regulation, Autophagy, Lysosome + Genes, Mir, Targeted + Signaling, Activated, Alk","hsa-miR-17-5p,
+hsa-miR-93-5p,
+hsa-miR-106b-5p"
+3,"Genes, Mir, Targeted + Ubiquitin, Protein, Pathway + Transport, Membrane, Vesicle","hsa-miR-16-5p,
+hsa-miR-15b-5p,
+hsa-miR-15a-5p"
+4,"Activity, Dehydrogenase, Methylenetetrahydrofolate + Binding, Rna, Genes + Reticulum, Endoplasmic, Infection","hsa-miR-30a-5p,
+hsa-miR-30b-5p,
+hsa-miR-30c-5p"
+5,Not Significant,"hsa-miR-155-5p,
+hsa-miR-142-3p,
+hsa-miR-205-5p"
+6,"Binding, Mrna, Process + Cancer, Akt1, Cell","hsa-miR-222-3p,
+hsa-miR-193b-3p,
+hsa-miR-221-3p"
+7,Not Significant,"hsa-miR-92a-3p,
+hsa-miR-92b-3p,
+hsa-miR-32-5p"
+8,"Translation, Eukaryotic, Initiation + Cellular, Response, Responses + Signaling, Receptor, Like","hsa-miR-34a-5p,
+hsa-miR-21-5p,
+hsa-miR-22-3p"
+9,"Activity, Metabolism, Acid + Transport, Transmembrane, Activity + Response, Cellular, Stress","hsa-miR-125b-5p,
+hsa-miR-23b-3p,
+hsa-miR-125a-5p"
+10,"Complex, Binding, 43s + Transport, Endocytosis, Protein + Signaling, Factor, Receptor","hsa-miR-181a-5p,
+hsa-miR-181b-5p,
+hsa-miR-744-5p"
+11,"Autophagy, Acid, Cholesterol + Binding, Chromosome, Rna","hsa-miR-10a-5p,
+hsa-miR-192-5p,
+hsa-miR-505-3p"
+12,"Regulation, Process, Glucokinase + Transport, Nuclear, Nucleocytoplasmic + Protein, Sumoylation, Ubiquitination","hsa-miR-26b-5p,
+hsa-miR-26a-5p,
+hsa-miR-145-5p"
+13,"Rrna, Acetyltransferase, Activity + Activity, Transcription, Transcriptional + Regulation, Negative, Cell","hsa-miR-375,
+hsa-miR-200b-3p,
+hsa-miR-185-5p"
+14,"Regulation, Positive, Cellular + Metabolism, Chaperone, Folding + Vesicle, Transport, Budding","hsa-miR-101-3p,
+hsa-miR-100-5p,
+hsa-miR-99a-5p"
+15,Not Significant,"hsa-miR-24-3p,
+hsa-miR-455-3p,
+hsa-miR-146a-5p"
+16,"Ecm, Dna, Membrane + Activates, Base, Excision","hsa-miR-29b-3p,
+hsa-miR-29a-3p,
+hsa-miR-29c-3p"
+17,Not Significant,"hsa-miR-27a-3p,
+hsa-miR-27b-3p,
+hsa-miR-23a-3p"
+18,Not Significant,"hsa-miR-149-5p,
+hsa-miR-30a-3p,
+hsa-miR-423-5p"
+19,Not Significant,"hsa-miR-484,
+hsa-miR-324-5p,
+hsa-miR-181a-2-3p"
+20,"Regulation, Cell, Positive + Signaling, Regulation, Gtpases + Golgi, Vesicle, Transport","hsa-miR-320a,
+hsa-miR-342-3p,
+hsa-miR-17-3p"

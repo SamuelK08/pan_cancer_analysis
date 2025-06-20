@@ -1,0 +1,50 @@
+Community,Functions,Top 3 miRNAs
+1,"Calcium, Transport, Activity + Chromatin, Regulation, Gene + Mrna, Splicing, Processing","hsa-miR-16-5p,
+hsa-miR-15b-5p,
+hsa-miR-21-5p"
+2,"Activity, Kinase, Acetyltransferase + Genes, Mir, Targeted + Mrna, Rna, Binding","hsa-let-7b-5p,
+hsa-let-7a-5p,
+hsa-let-7c-5p"
+3,"Response, Cellular, Ion + Regulation, Endothelial, Production + Actin, Assembly, Binding","hsa-miR-93-5p,
+hsa-miR-17-5p,
+hsa-miR-106b-5p"
+4,"Regulation, Cell, Cellular + Chromatin, Histone, Binding + Dna, Binding, Damage","hsa-miR-30a-5p,
+hsa-miR-30b-5p,
+hsa-miR-30c-5p"
+5,"Regulation, Gtpase, Positive + Activity, Membrane, Formation + Cell, Response, Cellular","hsa-miR-155-5p,
+hsa-miR-320a,
+hsa-miR-375"
+6,"Genes, Regulation, Binding + Cellular, Responses, Export","hsa-miR-24-3p,
+hsa-miR-27a-3p,
+hsa-miR-27b-3p"
+7,"Detoxification, Activity, Acireductone + Process, Glyoxal, Metabolic + Methyltransferase, Activity, Decarboxylase","hsa-miR-26b-5p,
+hsa-miR-23b-3p,
+hsa-miR-455-3p"
+8,"Metabolism, Cellular, Response + Atp, Proton, Ion + Assembly, Mhc, Class","hsa-miR-100-5p,
+hsa-miR-26a-5p,
+hsa-miR-221-3p"
+9,"Activity, Protein, Biosynthesis + Translational, Initiation, Nmd + Process, Biosynthetic, Metabolism","hsa-miR-125b-5p,
+hsa-miR-10a-5p,
+hsa-miR-10b-5p"
+10,"Signaling, Domain, Kinase + Ii, Isomerase, Polymerase + Phagocytosis, Signaling, Activate","hsa-miR-424-5p,
+hsa-miR-142-3p,
+hsa-miR-145-5p"
+11,"Cell, Regulation, Signaling + Vesicle, Assembly, Binding","hsa-miR-92a-3p,
+hsa-miR-92b-3p,
+hsa-miR-25-3p"
+12,"Vwf, Variant, Binding + Rna, Ii, Binding + Activates, Signaling, Activation","hsa-miR-29b-3p,
+hsa-miR-29a-3p,
+hsa-miR-29c-3p"
+13,Not Significant,"hsa-miR-186-5p,
+hsa-miR-181b-5p,
+hsa-miR-192-5p"
+14,"Nr1h2, Nr1h3, Acid + Signaling, Alk, Cell + Binding, Rna, Infection","hsa-miR-484,
+hsa-miR-182-5p,
+hsa-miR-378a-3p"
+15,"Cardiac, Muscle, Cell + Rna, Binding, Host","hsa-miR-423-5p,
+hsa-miR-9-5p,
+hsa-let-7a-3p"
+16,"Binding, Dna, Rna + Coa, Process, Activity + Mutants, Resistance, Erbb2","hsa-miR-222-3p,
+hsa-miR-99b-3p,
+hsa-miR-99b-5p"
+17,"Activity, Process, Biosynthetic + Causes, Cell, Cmsta1",hsa-miR-140-3p
